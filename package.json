@@ -1,0 +1,28 @@
+{
+  "version": "0.0.0",
+  "name": "table-view-directive",
+  "author": "Dev Team Inc. <contact@dev-team.com> (http://dev-team.com)",
+  "description": "AngularJS table view directive",
+  "main": "./index.js",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "load-grunt-tasks": "^3.5.0"
+  },
+  "keywords": [
+    "angualrJS",
+    "table",
+    "view",
+    "directive"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevTeamHub/table-view-directive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevTeamHub/table-view-directive/issues"
+  },
+  "homepage": "https://github.com/DevTeamHub/table-view-directive#readme"
+}

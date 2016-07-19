@@ -1,0 +1,23 @@
+{
+  "name": "table-view-directive",
+  "authors": [
+    "Dev Team Inc."
+  ],
+  "description": "AngulaJS table view directive",
+  "main": "dist/table-view-directive.js",
+  "keywords": [
+    "angularJS",
+    "table",
+    "view",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DevTeamHub/table-view-directive",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/DevTeamHub/table-view-directive"
+  },
+   "dependencies": {
+    "angular": ">=1.3.0-beta.10"
+  }
+}
